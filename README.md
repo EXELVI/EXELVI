@@ -26,7 +26,7 @@
   
  </div>
 
-〰 **I Creates Discord bots**
+〰 **I create Discord bots**
 
 〰 **Sometimes i like create prank applications for my friends**
 
