@@ -28,8 +28,6 @@
 
 〰 **I create Discord bots**
 
-〰 **Sometimes i like create prank applications for my friends**
-
 〰 **I'm Italian 🇮🇹**
 
 〰 **Always stuck in arduino for 40 minutes for a** `;` **and a** `{`/`}`
