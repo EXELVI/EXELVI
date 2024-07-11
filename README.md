@@ -38,6 +38,6 @@
   ## Stats
   
   [![My stats](https://github-readme-stats.vercel.app/api?username=EXELVI&show_icons=true&theme=material-palenight&bg_color=50,0000ff,ff6600)](https://github.com/EXELVI)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EXELVI&layout=Compact layout)](https://github.com/EXELVI)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EXELVI&layout=compact)](https://github.com/EXELVI)
 
 </div>
