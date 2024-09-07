@@ -1,11 +1,11 @@
 # Hi there, I'm EXELVI! 👋
-[![Profile Views](https://exelvi.xyz/api/profile-views)](https://github.com/EXELVI)
-
 Welcome to my GitHub profile! I’m a student at a technical institute with a focus on computer science and telecommunications. I’m passionate about software development, hardware, and all things tech. I enjoy building PCs, programming in JavaScript, and working on Arduino projects.
 
 ![EXELVI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EXELVI&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EXELVI&layout=compact&theme=radical)
+
+[![Profile Views](https://exelvi.xyz/api/profile-views)](https://github.com/EXELVI)
 
 ---
 
