@@ -54,7 +54,7 @@ You can find me on various social platforms:
 
 [![Website](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://exelvi.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EXELVI)
-[![Twitter](https://img.shields.io/badge/Twitter-Twitter?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/exelvi1)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/exelvi1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/exelviofficial/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@exelvi)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/inside-community-cerchiamo-staff-759013736509079593)
